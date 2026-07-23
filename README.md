@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mugilan!
+# 👋 Hey there, I'm Artheesh!
 
 💻 **Full Stack Web Developer** passionate about crafting dynamic, responsive, and user-friendly web applications.  
 I love bringing ideas to life using modern frameworks, writing clean and efficient code, and solving problems with a creative approach.  
