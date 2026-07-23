@@ -19,13 +19,13 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
 ## 📬 Contact Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mugilan0610/" target="_blank">
+  <a href="https://www.linkedin.com/in/artheesh1122003?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:mugilanm810@gmail.com" target="_blank">
+  <a href="mailto:artheesh1122003@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
   </a>
-  <a href="https://github.com/mugilan0610" target="_blank">
+  <a href="https://github.com/artheesh1122003" target="_blank">
     <img src="https://th.bing.com/th/id/OIP.ujW9Gv6fOwy0Tm0GRcJT4gHaGs?w=263&h=237&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" width="52" height="40" alt="GitHub" />
   </a>
 </div>
@@ -63,24 +63,20 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"
-    height="160"
-    alt="Top Languages"
-  />
-
-  <br><br>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"
-    alt="Profile Views"
-  />
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mugilan0610&show_icons=true&theme=radical" height="150"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan0610&layout=compact&theme=radical" height="150"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mugilan0610&label=Profile%20Views&color=0e75b6&style=flat" alt="mugilan0610" />
+</p>
