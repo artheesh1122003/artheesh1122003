@@ -63,20 +63,24 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mugilan0610&show_icons=true&theme=radical" height="150"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan0610&layout=compact&theme=radical" height="150"/>
-      </td>
-    </tr>
-  </table>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"
+    height="160"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"
+    height="160"
+    alt="Top Languages"
+  />
+
+  <br><br>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"
+    alt="Profile Views"
+  />
+
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mugilan0610&label=Profile%20Views&color=0e75b6&style=flat" alt="mugilan0610" />
-</p>
