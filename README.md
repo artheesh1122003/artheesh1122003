@@ -66,10 +66,10 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mugilan0610&show_icons=true&theme=radical" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Artheesh-E&show_icons=true&theme=radical" height="150"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugilan0610&layout=compact&theme=radical" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artheesh-E&layout=compact&theme=radical" height="150"/>
       </td>
     </tr>
   </table>
@@ -78,5 +78,5 @@ I love bringing ideas to life using modern frameworks, writing clean and efficie
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mugilan0610&label=Profile%20Views&color=0e75b6&style=flat" alt="mugilan0610" />
+  <img src="https://komarev.com/ghpvc/?username=mugilan0610&label=Profile%20Views&color=0e75b6&style=flat" alt="Artheesh E" />
 </p>
